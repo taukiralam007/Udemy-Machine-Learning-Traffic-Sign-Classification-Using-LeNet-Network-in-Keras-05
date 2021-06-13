@@ -1,7 +1,7 @@
 ## Udemy-Machine-Learning-Traffic-Sign-Classification-Using-LeNet-Network-in-Keras-05
  CODE TO CLASSIFY TRAFFIC SIGNS USING LE-NET ARCHITECTURE IN KERAS
 
-•In this case study, you have been provided with images of traffic signs and the goal is to train a Deep Network to classify the
+•In this case study, we have been provided with images of traffic signs and the goal is to train a Deep Network to classify the
 
 •The dataset contains 43 different classes of images. 
 
@@ -60,7 +60,7 @@ J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Rec
 
 @inproceedings{Stallkamp-IJCNN-2011,author = {Johannes Stallkamp and Marc Schlipsing and Jan Salmen and Christian Igel},booktitle = {IEEE International Joint Conference on Neural Networks},title = {The {G}erman {T}raffic {S}ign {R}ecognition {B}enchmark: A multi-class classification competition},year = {2011},pages = {1453--1460} }
 
-##Software used 
+## Software used 
 jupyter notebook 
 keras tensor flow 
 
